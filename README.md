@@ -1,7 +1,7 @@
 # Discord.js-V13-Bot
 
 
-### INSTALLING MOUULES!
+### INSTALLING MODULES!
 
 ``(1.)`` Download Node.js V16
 
